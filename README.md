@@ -95,5 +95,16 @@ In the static lab, I used a sample SIEM dashboard and event log to investigate a
 - This connects to my Windows Logging notes: Event ID 4688 from the Security log is exactly the kind of data a SIEM rule uses.
 
 ## Screenshot
-<img width="1920" height="1032" alt="Screenshot 2026-10-15 053211" src="https://github.com/user-attachments/assets/d8336418-5440-4158-bb32-2232a0a3a0a7" />
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/cbdaabd4-af49-466f-b39e-e2d99a8b74d8" /><img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/7d4affd5-3ba6-42a1-b820-e0135003522a" /><img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/4656c80f-8df6-40f8-a820-8cb3da31b3dc" /><img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/7b5d530a-9757-44bc-9674-313062a7f17a" /><img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/42df6af4-2758-4a8c-b272-314b89229ef1" /><img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/551b372f-b064-4f7e-a25d-873231e2ff56" />
+
+
+
+
+
+
+
+
+
+
+
 

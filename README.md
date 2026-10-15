@@ -1,6 +1,6 @@
 # TryHackMe — Introduction to SIEM
 
-**Completed:** 10/15/2026
+**Completed:** 10/3/2026
 
 ## Overview
 In this room I learned what a SIEM (Security Information and Event Management) system is, why a SOC analyst needs it, how logs from different sources are collected and normalized, and how alerts are created and investigated.
